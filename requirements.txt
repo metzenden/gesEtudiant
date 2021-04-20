@@ -46,7 +46,7 @@ piston-mini-client==0.7.5
 pluggy==0.13.0
 psutil==3.4.2
 ptyprocess==0.5
-py==1.8.0
+py==1.10.0
 pyasn1==0.4.7
 pycodestyle==2.5.0
 pycrypto==2.6.1
